@@ -1,6 +1,7 @@
 # STA426
 ##Homework for today
-**Github and Markdown practice:**
+###**Github and Markdown practice:**
+
 In this [link](http://www.markdowntutorial.com/) one can find useful information about how to create a text in Markdown:
 *Create links
 *Add images
