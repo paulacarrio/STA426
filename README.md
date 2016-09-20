@@ -7,5 +7,6 @@ In this [link](http://www.markdowntutorial.com/) one can find useful information
 * Add images
 * Insert blockquotes
 * Write lists
-* ...
-![](http://lifehacker.com/5943320/what-is-markdown-and-why-is-it-better-for-my-to-do-lists-and-notes)
+* ... ..
+
+(http://lifehacker.com/5943320/what-is-markdown-and-why-is-it-better-for-my-to-do-lists-and-notes)
