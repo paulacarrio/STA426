@@ -1,0 +1,32 @@
+
+**Introduction to R Markdown (Homework 1.2)**  
+
+Paula Carrio Cordo  
+_26 September, 2016_
+
+*1. Simulating data and plotting it*  
+
+As a demonstration, we are going to create a PDF document that samples 100 values from a log-normal distribution with mean 1 and standard deviation a quarter. Below is a histogram of the sample:
+
+```{r fig.width=7, fig.height=6, echo=FALSE}
+x<-rlnorm(n=100,1,0.25)
+hist(x)
+```
+
+And below is a histogram of the log of the sample, recovering the familiar normal distribution:
+
+```{r fig.width=7, fig.height=6, echo=FALSE}
+
+xx<-log(x)
+hist(xx)
+
+```
+
+The mean and variance are respectively:
+
+```{r, echo=FALSE}
+mean(x)
+
+var(x)
+```
+
